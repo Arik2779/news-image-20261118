@@ -1,14 +1,16 @@
-// news-image-20261118 entry (Node 22, standard library only).
+// news-image-20261118 entry v2 (Node 22, standard library only).
 //
 // The picture is a newspaper front page summing up the world's news of
-// Wednesday 18 November 2026: masthead "WORLD NEWS" dated that day, with
-// four illustrated panels — APEC OPENS IN SHENZHEN (a leader at a podium
-// with flags and the Shenzhen skyline), TRUMP LANDS IN SHENZHEN (the US
-// presidential plane touching down at dusk), NVIDIA BEATS: $115.8 BILLION
-// (a green chip with a rising chart), and CYCLONE AKVAN TURNS SEVERE (a
-// satellite view of the cyclone over the Bay of Bengal off India). The
-// image was generated for this entry, and the program below simply
-// delivers it to the grader's output directory.
+// Wednesday 18 November 2026 — the full day, re-researched on 19 Nov after
+// the day had ended everywhere: masthead "WORLD NEWS" dated that day, a
+// large hero panel plus three panels below — IRAN STRIKES KUWAIT & BAHRAIN
+// (missiles and drones over a Gulf air base at night), XI MEETS PUTIN
+// (the two leaders shaking hands at a table with Chinese and Russian
+// flags and the Shenzhen skyline), PELTOLA WINS ALASKA (the senator-elect
+// waving at a victory rally under a 56-44 scoreboard), and NVIDIA BEATS:
+// $115.8B (a green chip with a rising chart). The image was generated for
+// this entry, and the program below simply delivers it to the grader's
+// output directory.
 //
 // Run it the way the kit does:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
